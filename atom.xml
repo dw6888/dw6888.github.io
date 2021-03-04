@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dw6888.github.io</id>
     <title>小伟观天下</title>
-    <updated>2021-03-04T04:00:18.727Z</updated>
+    <updated>2021-03-04T10:11:56.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dw6888.github.io"/>
     <link rel="self" href="https://dw6888.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://dw6888.github.io/images/avatar.png</logo>
     <icon>https://dw6888.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小伟观天下</rights>
+    <entry>
+        <title type="html"><![CDATA[《无题·相见时难别易难》    唐代：李商隐]]></title>
+        <id>https://dw6888.github.io/post/dN6PNCCoz/</id>
+        <link href="https://dw6888.github.io/post/dN6PNCCoz/">
+        </link>
+        <updated>2021-03-04T10:10:59.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>              相见时难别亦难，东风无力百花残。
+
+              春蚕到死丝方尽，蜡炬成灰泪始干。
+
+              晓镜但愁云鬓改，夜吟应觉月光寒。
+
+              蓬山此去无多路，青鸟殷勤为探看。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一篇（测试）]]></title>
         <id>https://dw6888.github.io/post/9ZqC0LJSQ/</id>
