@@ -2180,7 +2180,7 @@ body {
       }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
-      cursor: url('/media/curs//media/curs/default_normal.cur.cur'), default;
+      cursor: url('/media/curs/default_normal.cur.cur'), default;
     }a {
       cursor: pointer;
     }input, textarea, code {
