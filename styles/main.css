@@ -2182,11 +2182,11 @@ body {
     }body {
       cursor: url('/media/curs/default_normal.cur'), default;
     }a {
-      cursor: pointer;
+      cursor: url('/media/curs/default_normal.cur'), pointer !important;
     }input, textarea, code {
-      cursor: text;
+      cursor: url('/media/curs/default_normal.cur'), text !important;
     }code > span.copy-code {
-      cursor: pointer;
+      cursor: url('/media/curs/default_normal.cur'), text !important;
     }.post img {
       cursor: zoom-in;
     }.post img {
